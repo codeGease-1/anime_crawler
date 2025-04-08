@@ -1,0 +1,7 @@
+## 依赖库
+
+- requests
+- beautifulsoup4
+- pandas
+- playwright
+- ffmpeg
